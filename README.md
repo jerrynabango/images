@@ -40,6 +40,9 @@ Pizza In Sales and Nature services is a web application designed to showcase the
 
 ---
 
+### Live link:
+- http://127.0.0.1:5500/home.html
+
 ### Credits
 - Developed by Jerry Nabango
 
